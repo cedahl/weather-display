@@ -1,3 +1,4 @@
-env_canada (and its listed requirements)
+env_canada
 pygame
 feedparser
+nws-weather
